@@ -1,0 +1,13 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/MetricaAndinaTest/v17/.wsuo
+/.vs/MetricaAndinaTest/v17
+/.vs/MetricaAndinaTest/FileContentIndex/read.lock
+/.vs/MetricaAndinaTest/FileContentIndex/2b5b50e2-b901-409f-99b1-b84911a948c2.vsidx
+/.vs/MetricaAndinaTest/FileContentIndex
+/.vs/MetricaAndinaTest
+/.vs
