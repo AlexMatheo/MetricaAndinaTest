@@ -1,0 +1,6 @@
+C:\Users\USER\Source\Repos\MetricaAndinaTest\Test_MA_WebForm_3Capas_Oracle\Test_MA_WebForm_Entidades\bin\Debug\Test_MA_WebForm_Entidades.dll
+C:\Users\USER\Source\Repos\MetricaAndinaTest\Test_MA_WebForm_3Capas_Oracle\Test_MA_WebForm_Entidades\bin\Debug\Test_MA_WebForm_Entidades.pdb
+C:\Users\USER\Source\Repos\MetricaAndinaTest\Test_MA_WebForm_3Capas_Oracle\Test_MA_WebForm_Entidades\obj\Debug\Test_MA_WebForm_Entidades.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\MetricaAndinaTest\Test_MA_WebForm_3Capas_Oracle\Test_MA_WebForm_Entidades\obj\Debug\Test_MA_WebForm_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\MetricaAndinaTest\Test_MA_WebForm_3Capas_Oracle\Test_MA_WebForm_Entidades\obj\Debug\Test_MA_WebForm_Entidades.dll
+C:\Users\USER\Source\Repos\MetricaAndinaTest\Test_MA_WebForm_3Capas_Oracle\Test_MA_WebForm_Entidades\obj\Debug\Test_MA_WebForm_Entidades.pdb
